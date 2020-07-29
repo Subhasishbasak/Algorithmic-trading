@@ -1,4 +1,4 @@
-# Algorithmic Trading
+# Algorithmic Trading : strategies  & backtesting
 
 ## Directory Layout
 
