@@ -2,11 +2,16 @@
 
 ## Directory Layout
 
-TODO : expalin how things are organised in this repo
+* `code` : Directory containing code.
+* `data` : Currently contains sample data for testing.
 
-## The Plan
+## Workflow
 
 - Develop a backtesting platform in Python
-- Implement the Optimal Time-slot algorithm in python
+- Propose/formalize trading strategy with MACD & RSI
+- Propose an optimization algorithm for parameter estimation
+
+
+
 
 
