@@ -11,7 +11,9 @@
 - Propose/formalize trading strategy with MACD & RSI
 - Propose an optimization algorithm for parameter estimation
 
+## Resources
 
+- Useful kaggle notebook [here](https://www.kaggle.com/youhanlee/simple-quant-features-using-python)
 
 
 
